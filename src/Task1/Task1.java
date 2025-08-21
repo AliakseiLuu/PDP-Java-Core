@@ -2,7 +2,7 @@ package Task1;
 
 import java.util.Scanner;
 
-public class Main {
+public class Task1 {
     //Задача 1. Написать метод который вычисляет факториал введенного целого числа
     public static void main(String[] args) {
 
